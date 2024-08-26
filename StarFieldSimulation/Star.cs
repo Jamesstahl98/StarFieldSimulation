@@ -3,6 +3,8 @@
     internal class Star
     {
         Random rand = new Random();
+        private int zSubtraction = 2;
+        
         private float x;
         private float y;
         private float z;
@@ -27,7 +29,7 @@
             {
                 Alpha++;
             }
-            z--;
+            z = z - zSubtraction;
 
             sx = Map(x / z, 0, 1, 0, formWidth) + (formWidth / 2);
             sy = Map(y / z, 0, 1, 0, formHeight) + (formHeight / 2);

@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\James\\.nuget\\packages\\": {}
+    "C:\\Users\\Jamoo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\StarFieldSimulation.csproj",
+      "projectUniqueName": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj",
       "projectName": "StarFieldSimulation",
-      "projectPath": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\StarFieldSimulation.csproj",
-      "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\obj\\",
+      "projectPath": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj",
+      "packagesPath": "C:\\Users\\Jamoo\\.nuget\\packages\\",
+      "outputPath": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jamoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
