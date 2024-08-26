@@ -1,0 +1,16 @@
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\bin\Debug\net8.0-windows\StarFieldSimulation.exe
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\bin\Debug\net8.0-windows\StarFieldSimulation.deps.json
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\bin\Debug\net8.0-windows\StarFieldSimulation.runtimeconfig.json
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\bin\Debug\net8.0-windows\StarFieldSimulation.dll
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\bin\Debug\net8.0-windows\StarFieldSimulation.pdb
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.Form1.resources
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.csproj.GenerateResource.cache
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.AssemblyInfoInputs.cache
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.AssemblyInfo.cs
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.csproj.CoreCompileInputs.cache
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.dll
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\refint\StarFieldSimulation.dll
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.pdb
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\StarFieldSimulation.genruntimeconfig.cache
+C:\Projects\StarFieldSimulation2\StarFieldSimulation\StarFieldSimulation\obj\Debug\net8.0-windows\ref\StarFieldSimulation.dll

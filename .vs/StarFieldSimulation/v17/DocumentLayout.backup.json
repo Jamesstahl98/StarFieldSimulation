@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A8C375-209D-4063-BD89-E75C61F35639}|StarFieldSimulation\\StarFieldSimulation.csproj|c:\\projects\\starfieldsimulation2\\starfieldsimulation\\starfieldsimulation\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A8C375-209D-4063-BD89-E75C61F35639}|StarFieldSimulation\\StarFieldSimulation.csproj|solutionrelative:starfieldsimulation\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A8C375-209D-4063-BD89-E75C61F35639}|StarFieldSimulation\\StarFieldSimulation.csproj|c:\\projects\\starfieldsimulation2\\starfieldsimulation\\starfieldsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A8C375-209D-4063-BD89-E75C61F35639}|StarFieldSimulation\\StarFieldSimulation.csproj|solutionrelative:starfieldsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A8C375-209D-4063-BD89-E75C61F35639}|StarFieldSimulation\\StarFieldSimulation.csproj|c:\\projects\\starfieldsimulation2\\starfieldsimulation\\starfieldsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5A8C375-209D-4063-BD89-E75C61F35639}|StarFieldSimulation\\StarFieldSimulation.csproj|solutionrelative:starfieldsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\Star.cs",
+              "RelativeDocumentMoniker": "StarFieldSimulation\\Star.cs",
+              "ToolTip": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\Star.cs",
+              "RelativeToolTip": "StarFieldSimulation\\Star.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:20:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "StarFieldSimulation\\Form1.cs",
+              "ToolTip": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\Form1.cs*",
+              "RelativeToolTip": "StarFieldSimulation\\Form1.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:19:17.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "StarFieldSimulation\\Form1.cs",
+              "ToolTip": "C:\\Projects\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation\\Form1.cs [Design]*",
+              "RelativeToolTip": "StarFieldSimulation\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:17:55.645Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
