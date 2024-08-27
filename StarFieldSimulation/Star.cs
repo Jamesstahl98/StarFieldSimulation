@@ -2,8 +2,8 @@
 {
     internal class Star
     {
-        Random rand = new Random();
-        private int zSubtraction = 2;
+        readonly Random rand = new Random();
+        private readonly int zSubtraction = 2;
         
         private float x;
         private float y;
@@ -11,8 +11,8 @@
         public float sx;
         public float sy;
 
-        private int formWidth;
-        private int formHeight;
+        private readonly int formWidth;
+        private readonly int formHeight;
 
         public int Alpha = 0;
 
@@ -29,7 +29,7 @@
             {
                 Alpha++;
             }
-            z = z - zSubtraction;
+            z -= zSubtraction;
 
             sx = Map(x / z, 0, 1, 0, formWidth) + (formWidth / 2);
             sy = Map(y / z, 0, 1, 0, formHeight) + (formHeight / 2);
@@ -48,7 +48,7 @@
             z = formWidth;
         }
 
-        float Map(float s, float a1, float a2, float b1, float b2)
+        static float Map(float s, float a1, float a2, float b1, float b2)
         {
             return b1 + (s - a1) * (b2 - b1) / (a2 - a1);
         }

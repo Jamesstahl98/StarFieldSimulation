@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBlRX+Fx7nIUt4VXgEiorWkfCK4+c486NajrYvoysAP87NE1H1eM/Zce1yqqAmXFd+588V/t456mlxY1PG4nWw==",
+  "dgSpecHash": "PgVeKtBU4LV65QoXcOY0bQE1rTXZmyM7hTlFkv/ltSevYU1lf3IuhvftzrfymsePpmR6SNJ780EDEsZUFhSfLA==",
   "success": true,
-  "projectFilePath": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj",
+  "projectFilePath": "D:\\Projekt\\StarField\\StarFieldSimulation\\StarFieldSimulation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

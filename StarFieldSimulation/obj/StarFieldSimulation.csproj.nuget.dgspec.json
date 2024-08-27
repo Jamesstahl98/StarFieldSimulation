@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj": {}
+    "D:\\Projekt\\StarField\\StarFieldSimulation\\StarFieldSimulation.csproj": {}
   },
   "projects": {
-    "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj": {
+    "D:\\Projekt\\StarField\\StarFieldSimulation\\StarFieldSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj",
+        "projectUniqueName": "D:\\Projekt\\StarField\\StarFieldSimulation\\StarFieldSimulation.csproj",
         "projectName": "StarFieldSimulation",
-        "projectPath": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\StarFieldSimulation.csproj",
+        "projectPath": "D:\\Projekt\\StarField\\StarFieldSimulation\\StarFieldSimulation.csproj",
         "packagesPath": "C:\\Users\\Jamoo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekt\\StarFieldSimulation2\\StarFieldSimulation\\obj\\",
+        "outputPath": "D:\\Projekt\\StarField\\StarFieldSimulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jamoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
